@@ -1,0 +1,29 @@
+#center {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    
+  }
+  
+  #center td, #center th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  #center tr:nth-child(even){background-color: #f2f2f2;}
+  
+  #center tr:hover {background-color: #ddd;}
+  
+  #center th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #04AA6D;
+    color: white;
+  }
+  .pos
+  {
+      margin-left: 10%;
+      margin-right: 10%;
+      padding-top: 2%;
+  }
